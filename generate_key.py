@@ -9,5 +9,3 @@ def generate_key(file_name="secret.key"):
 
 if __name__ == "__main__":
     generate_key()
-
-    #26:15
